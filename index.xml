@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE faculty SYSTEM "index.dtd"> -->
+<faculty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="index.xsd">
+
+<details>
+    <id>123456</id>
+    <password>secure123</password>
+</details>
+
+<details>
+    <id>123456</id>
+    <password>secure123</password>
+</details>
+<details>
+    <id>123456</id>
+    <password>secure123</password>
+</details>
+
+</faculty>

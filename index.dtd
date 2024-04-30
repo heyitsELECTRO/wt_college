@@ -1,0 +1,4 @@
+<!ELEMENT faculty (details+)>
+<!ELEMENT details (id,password)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
